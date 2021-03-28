@@ -16,7 +16,7 @@ aracı güncelleme, silme ve araçlar içerisinde istenen özelliğe göre
 arama yapma işlemleri yapılabilmektedir.
 
 >**Araçları Göster Butonu** : Sistemdeki araçları görüntülemek için
-kullanılacak buton.
+kullanılacak buton./
 >**Araç Ekle Butonu :** Sisteme araç eklemek için kullanılacak buton.
 >**Araç Güncelle Butonu** : Seçilmiş olan aracı güncellemek için
 kullanılacak buton.

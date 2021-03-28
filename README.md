@@ -7,8 +7,8 @@ _İbrahim Demirci_
 -   C/# Forms
 -   MSSQL Server
 
-### Araç İşlemleri Menüsü
-\
+### Araç İşlemleri Menüsü<hr/>
+
 >![image](media/media/image1.jpeg)
 
 >Bu menüde kayıtlı araçları gösterme, sisteme araç ekleme, kayıtlı bir
@@ -26,7 +26,7 @@ için kullanılacak buton.\
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
 
- ### Müşteri İşlemleri Menüsü
+### Müşteri İşlemleri Menüsü<hr/>
  
 ![](media/media/image2.jpeg)
 >Bu menüde kayıtlı müşterileri gösterme, sisteme müşteri ekleme,
@@ -47,9 +47,9 @@ kullanılacak buton.\
 için kullanılacak buton.\
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.\
 
-### Abonelik İşlemleri Menüsü
+### Abonelik İşlemleri Menüsü<hr/>
 
-![](media/media/image3.jpeg)
+>![](media/media/image3.jpeg)
 
 >Bu menüde kayıtlı abonelikleri gösterme, sisteme abonelik ekleme,
 kayıtlı bir abonelik güncelleme, silme ve abonelik süresi azalanları
@@ -72,7 +72,7 @@ için koyuldu.\
 >![](media/media/image5.png)
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
-### Çalışan İşlemleri Menüsü 
+### Çalışan İşlemleri Menüsü <hr/>
 
 >![](media/media/image6.jpeg)
 
@@ -91,7 +91,7 @@ buton.\
 için kullanılacak buton.\
 >**Ana menü butonu** : Bir önceki menüye dönmek için basılacak buton.
 
-### Müşteri Telefon İşlemleri Menüsü
+### Müşteri Telefon İşlemleri Menüsü<hr/>
 
 >![](media/media/image7.jpeg)
 >Bu menüde telefon numaralarını gösterme, sisteme telefon ekleme,
@@ -112,7 +112,7 @@ basılacak buton.
 >**Yanlış bir işleme yol açabilecek her durum göz önüne alınmış ve uyarı
 mesajları ile bilgilendirme yapılmıştır.
 
->**Örnek:**
+### Örnek: <br/>
 
 **-Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
 

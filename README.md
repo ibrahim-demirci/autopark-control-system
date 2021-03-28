@@ -17,12 +17,12 @@ arama yapma işlemleri yapılabilmektedir.
 
 >**Araçları Göster Butonu** : Sistemdeki araçları görüntülemek için
 kullanılacak buton.\
->**Araç Ekle Butonu :** Sisteme araç eklemek için kullanılacak buton.
+>**Araç Ekle Butonu :** Sisteme araç eklemek için kullanılacak buton.\
 >**Araç Güncelle Butonu** : Seçilmiş olan aracı güncellemek için
-kullanılacak buton.
+kullanılacak buton.\
 >**Araç Sil Butonu** : Seçilmiş aracı silmek için kullanılacak buton.
 >**Ara Butonu** : Arama türü ve aranacak değer ile sistemde arama yapmak
-için kullanılacak buton.
+için kullanılacak buton.\
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
 
@@ -34,19 +34,18 @@ kayıtlı bir müşteriyi güncelleme, silme ve müşteriler içerisinde istenen
 özelliğe göre arama yapma işlemleri yapılabilmektedir.
 
 >**Müşterileri Göster Butonu** : Sistemdeki müşterileri görüntülemek için
-kullanılacak buton.
+kullanılacak buton.\
 >**Müşteri Ekleme Butonu** : Sisteme müşteri eklemek için kullanılacak
-buton.
+buton.\
 >**Müşteri Güncelleme Butonu** : Seçilmiş olan müşteriyi güncellemek için
-kullanılacak buton.
+kullanılacak buton.\
 >**Müşteri Sil Butonu** : Seçilmiş müşteriyi silmek için kullanılacak
-buton.
+buton.\
 >**Müşteri Telefon Giriş Butonu** : Müşteri telefon numarasını eklemek için
-kullanılacak buton.
+kullanılacak buton.\
 >**Ara Butonu** : Arama türü ve aranacak değer ile sistemde arama yapmak
-için kullanılacak buton.
-
->**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
+için kullanılacak buton.\
+>**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.\
 
 ### Abonelik İşlemleri Menüsü
 
@@ -57,19 +56,19 @@ kayıtlı bir abonelik güncelleme, silme ve abonelik süresi azalanları
 görüntüleme işlemleri yapılabilmektedir.
 
 >**Abonelikleri Göster Butonu** : Sistemdeki abonelikleri görüntülemek için
-kullanılacak buton.
+kullanılacak buton.\
 >**Abonelik Ekleme Butonu** : Sisteme abonelik eklemek için kullanılacak
-buton.
+buton.\
 >**Abonelik Güncelleme Butonu** : Seçilmiş olan aboneliği güncellemek için
-kullanılacak buton.
+kullanılacak buton.\
 >**Abonelik Sil Butonu** : Seçilmiş aboneliği silmek için kullanılacak
-buton.
+buton.\
 >**Abonelik Süresi Azalanlar Butonu** : Sistemdeki abonelik süresi azanları
-göstermek için kullanılacak buton.
+göstermek için kullanılacak buton.\
 ![](media/media/image4.png)
 >**Kayıtlı Araçları Göster Butonu** : Sistemdeki kayıtlı araç plakalarını
 görmek için kullanılacak buton. Abonelik ekleme işleminde yardımcı olmak
-için koyuldu.
+için koyuldu.\
 ![](media/media/image5.png)
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 

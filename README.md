@@ -114,25 +114,25 @@ mesajları ile bilgilendirme yapılmıştır.
 
 ### Örnek: <br/>
 
-**-Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
+>-Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
 
--   ![](media/media/image8.png)
+>   ![](media/media/image8.png)
 
-**-Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**
+>-Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**
 
--   ![](media/media/image9.png)
+>   ![](media/media/image9.png)
 
--   ![](media/media/image10.png)
+>   ![](media/media/image10.png)
 
--   ![](media/media/image11.png)
+>   ![](media/media/image11.png)
 
--   ![](media/media/image12.png)
+>   ![](media/media/image12.png)
 
--   ![](media/media/image13.png)
+>   ![](media/media/image13.png)
 
--   ![](media/media/image14.png)
+>   ![](media/media/image14.png)
 
--   ![](media/media/image15.png)
+>   ![](media/media/image15.png)
 
 **ER Diyagram**
 

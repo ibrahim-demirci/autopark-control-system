@@ -8,8 +8,8 @@ _İbrahim Demirci_
 -   MSSQL Server
 
 ### Araç İşlemleri Menüsü
-
-![image](media/media/image1.jpeg)
+\
+>![image](media/media/image1.jpeg)
 
 >Bu menüde kayıtlı araçları gösterme, sisteme araç ekleme, kayıtlı bir
 aracı güncelleme, silme ve araçlar içerisinde istenen özelliğe göre

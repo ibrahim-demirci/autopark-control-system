@@ -7,6 +7,8 @@ _İbrahim Demirci_
 -   C/# Forms
 -   MSSQL Server
 
+<br/>
+
 ### Araç İşlemleri Menüsü<hr/>
 
 >![image](media/media/image1.jpeg)
@@ -25,6 +27,7 @@ kullanılacak buton.\
 için kullanılacak buton.\
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
+<br/>
 
 ### Müşteri İşlemleri Menüsü<hr/>
  
@@ -74,6 +77,8 @@ için koyuldu.\
 >![](media/media/image5.png)
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
+<br/>
+
 ### Çalışan İşlemleri Menüsü <hr/>
 
 >![](media/media/image6.jpeg)
@@ -92,6 +97,8 @@ buton.\
 >**Ara butonu: Arama türü ve aranacak değer ile sistemde arama yapmak
 için kullanılacak buton.\
 >**Ana menü butonu** : Bir önceki menüye dönmek için basılacak buton.
+
+<br/>
 
 ### Müşteri Telefon İşlemleri Menüsü<hr/>
 
@@ -114,6 +121,8 @@ basılacak buton.\
 >**Yanlış bir işleme yol açabilecek her durum göz önüne alınmış ve uyarı
 mesajları ile bilgilendirme yapılmıştır.\
 
+<br/>
+
 ### Örnek: <br/>
 
 >**Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
@@ -128,11 +137,17 @@ mesajları ile bilgilendirme yapılmıştır.\
 >   ![](media/media/image14.png)<br/>
 >   ![](media/media/image15.png)<br/>
 
+<br/>
+
 ### ER Diyagram**<hr/>
 >![](media/media/image16.png)
 
+<br/>
+
 ###Veritabanı Şeması<hr/>
 >![](media/media/image17.png)
+
+<br/>
 
 ###Normalizasyon Aşamaları<hr/>
 

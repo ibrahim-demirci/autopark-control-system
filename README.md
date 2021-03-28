@@ -7,8 +7,8 @@ _İbrahim Demirci_
 -   C/# Forms
 -   MSSQL Server
 
-### Araç İşlemleri Menüsü
-<hr/>
+### Araç İşlemleri Menüsü<hr/>
+
 >![image](media/media/image1.jpeg)
 
 >Bu menüde kayıtlı araçları gösterme, sisteme araç ekleme, kayıtlı bir

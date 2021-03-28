@@ -83,16 +83,17 @@ için koyuldu.\
 
 >![](media/media/image6.jpeg)
 
->**Bu menüde kayıtlı çalışanları gösterme, sisteme çalışan kaydetme,
-kayıtlı bir çalışan güncelleme, silme ve** **çalışanlar içerisinde
-istenen özelliğe göre arama yapma işlemleri yapılabilmektedir..\
->**Çalışanları göster butonu: Sistemdeki çalışanları görüntülemek için
+>Bu menüde kayıtlı çalışanları gösterme, sisteme çalışan kaydetme,
+kayıtlı bir çalışan güncelleme, silme ve çalışanlar içerisinde
+istenen özelliğe göre arama yapma işlemleri yapılabilmektedir.
+
+>**Çalışanları göster butonu** : Sistemdeki çalışanları görüntülemek için
 kullanılacak buton.\
->**Çalışan kaydet butonu: Sisteme çalışanı kaydetmek için kullanılacak
+>**Çalışan kaydet butonu** : Sisteme çalışanı kaydetmek için kullanılacak
 buton.\
->**Çalışan güncelleme butonu: Seçilmiş olan çalışanı güncellemek için
+>**Çalışan güncelleme butonu** : Seçilmiş olan çalışanı güncellemek için
 kullanılacak buton.\
->**Çalışan sil butonu: Seçilmiş çalışanı silmek için kullanılacak
+>**Çalışan sil butonu** : Seçilmiş çalışanı silmek için kullanılacak
 buton.\
 >**Ara butonu**: Arama türü ve aranacak değer ile sistemde arama yapmak
 için kullanılacak buton.\
@@ -103,6 +104,7 @@ için kullanılacak buton.\
 ### Müşteri Telefon İşlemleri Menüsü<hr/>
 
 >![](media/media/image7.jpeg)
+
 >Bu menüde telefon numaralarını gösterme, sisteme telefon ekleme,
 kayıtlı bir telefon güncelleme ve silme işlemleri yapılabilmektedir.\
 
@@ -117,25 +119,24 @@ buton.\
 kullanılacak buton.\
 >**Kapatma butonu** : müşteri telefon işlemleri menüsünü kapatmak için
 basılacak buton.\
->**_Sistem Hatayı Minimuma İndirgeyecek Şekilde Tasarlanmıştır_
->**Yanlış bir işleme yol açabilecek her durum göz önüne alınmış ve uyarı
+>**_Sistem Hatayı Minimuma İndirgeyecek Şekilde Tasarlanmıştır._**Yanlış bir işleme yol açabilecek her durum göz önüne alınmış ve uyarı
 mesajları ile bilgilendirme yapılmıştır.\
 
 <br/>
 
 ### Örnek: <br/>
 
->**Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
+>**Primary Key değerlerin tekrar girilmesi durumu uyarısı.**\
 >   ![](media/media/image8.png)
 
->**Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**
->   ![](media/media/image9.png)<br/>
->   ![](media/media/image10.png)<br/>
->   ![](media/media/image11.png)<br/>
->   ![](media/media/image12.png)<br/>
->   ![](media/media/image13.png)<br/>
->   ![](media/media/image14.png)<br/>
->   ![](media/media/image15.png)<br/>
+>**Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**\
+>   ![](media/media/image9.png)
+>   ![](media/media/image10.png)
+>   ![](media/media/image11.png)
+>   ![](media/media/image12.png)
+>   ![](media/media/image13.png)
+>   ![](media/media/image14.png)
+>   ![](media/media/image15.png)
 
 <br/>
 
@@ -144,11 +145,11 @@ mesajları ile bilgilendirme yapılmıştır.\
 >![](media/media/image16.png)
 
 
-###Veritabanı Şeması<hr/>
+### Veritabanı Şeması<hr/>
 
 >![](media/media/image17.png)
 
-###Normalizasyon Aşamaları<hr/>
+### Normalizasyon Aşamaları<hr/>
 
 ![](media/media/image18.png)
 
@@ -156,10 +157,9 @@ mesajları ile bilgilendirme yapılmıştır.\
 görülüyor ki müşteri bilgilerini de her seferinde tutmamız gerekiyor. Bu
 tabloyu 1NF yapmak için**
 
--   **"İlişkili veri gruplarına ait ayrı tablolar oluşturulmalı"**
-
-> **Kuralını uygulandı ve iki ayrı tablo yaptım ve AracPlaka ve
-> MusteriTc niteliklerini birincil anahtar uygulandı.**
+>"İlişkili veri gruplarına ait ayrı tablolar oluşturulmalı"
+> Kuralını uygulandı ve iki ayrı tablo yaptım ve AracPlaka ve
+> MusteriTc niteliklerini birincil anahtar kullanıldı.
 >
 > **Abonelik ve Arac tabloları da ayrı bir şekilde tutuluyor. Örneğin
 > bir araç sisteme kayıtlı olabilir ama aboneliği henüz girilmemiş

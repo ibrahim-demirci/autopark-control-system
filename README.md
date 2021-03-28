@@ -1,100 +1,79 @@
-**Veri Tabanı ve Yönetim Sistemleri**
+# Veri Tabanı ve Yönetim Sistemleri
 
-**OTOPARK OTOMASYON SİSTEMİ (C/#)**
+# OTOPARK OTOMASYON SİSTEMİ (C/#)
+_İbrahim Demirci_
 
-**İbrahim Demirci**
+## Kullanılan Teknolojiler:
+-   C/# Forms
+-   MSSQL Server
 
-**Kullanılan Teknolojiler:**
+### Araç İşlemleri Menüsü
 
--   **C/# Forms**
+![image](media/media/image1.jpeg)
 
--   **MSSQL Server**
-
-**Araç İşlemleri Menüsü**
-
-![image](media/media/image1.jpeg){width="6.3in" height="2.6180555555555554in"}
-
-**Bu menüde kayıtlı araçları gösterme, sisteme araç ekleme, kayıtlı bir
+>Bu menüde kayıtlı araçları gösterme, sisteme araç ekleme, kayıtlı bir
 aracı güncelleme, silme ve araçlar içerisinde istenen özelliğe göre
-arama yapma işlemleri yapılabilmektedir.**
+arama yapma işlemleri yapılabilmektedir.
 
-**Araçları Göster Butonu : Sistemdeki araçları görüntülemek için
-kullanılacak buton.**
+>**Araçları Göster Butonu** : Sistemdeki araçları görüntülemek için
+kullanılacak buton.
+>**Araç Ekle Butonu :** Sisteme araç eklemek için kullanılacak buton.
+>**Araç Güncelle Butonu** : Seçilmiş olan aracı güncellemek için
+kullanılacak buton.
+>**Araç Sil Butonu** : Seçilmiş aracı silmek için kullanılacak buton.
+>**Ara Butonu** : Arama türü ve aranacak değer ile sistemde arama yapmak
+için kullanılacak buton.
+>**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
-**Araç Ekle Butonu : Sisteme araç eklemek için kullanılacak buton.**
 
-**Araç Güncelle Butonu : Seçilmiş olan aracı güncellemek için
-kullanılacak buton.**
-
-**Araç Sil Butonu : Seçilmiş aracı silmek için kullanılacak buton.**
-
-**Ara Butonu : Arama türü ve aranacak değer ile sistemde arama yapmak
-için kullanılacak buton.**
-
-**Ana Menü Butonu : Bir önceki menüye dönmek için basılacak buton.**
-
-**Müşteri İşlemleri Menüsü**
-
-![](media/media/image2.jpeg){width="6.3in" height="2.533333333333333in"}
-
-**Bu menüde kayıtlı müşterileri gösterme, sisteme müşteri ekleme,
+ ### Müşteri İşlemleri Menüsü
+ 
+![](media/media/image2.jpeg)
+>Bu menüde kayıtlı müşterileri gösterme, sisteme müşteri ekleme,
 kayıtlı bir müşteriyi güncelleme, silme ve müşteriler içerisinde istenen
-özelliğe göre arama yapma işlemleri yapılabilmektedir.**
+özelliğe göre arama yapma işlemleri yapılabilmektedir.
 
-**Müşterileri Göster Butonu: Sistemdeki müşterileri görüntülemek için
-kullanılacak buton.**
+>**Müşterileri Göster Butonu** : Sistemdeki müşterileri görüntülemek için
+kullanılacak buton.
+>**Müşteri Ekleme Butonu** : Sisteme müşteri eklemek için kullanılacak
+buton.
+>**Müşteri Güncelleme Butonu** : Seçilmiş olan müşteriyi güncellemek için
+kullanılacak buton.
+>**Müşteri Sil Butonu** : Seçilmiş müşteriyi silmek için kullanılacak
+buton.
+>**Müşteri Telefon Giriş Butonu** : Müşteri telefon numarasını eklemek için
+kullanılacak buton.
+>**Ara Butonu** : Arama türü ve aranacak değer ile sistemde arama yapmak
+için kullanılacak buton.
 
-**Müşteri Ekleme Butonu: Sisteme müşteri eklemek için kullanılacak
-buton.**
+>**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
-**Müşteri Güncelleme Butonu: Seçilmiş olan müşteriyi güncellemek için
-kullanılacak buton.**
+### Abonelik İşlemleri Menüsü
 
-**Müşteri Sil Butonu: Seçilmiş müşteriyi silmek için kullanılacak
-buton.**
+![](media/media/image3.jpeg)
 
-**Müşteri Telefon Giriş Butonu: Müşteri telefon numarasını eklemek için
-kullanılacak buton.**
-
-**Ara Butonu: Arama türü ve aranacak değer ile sistemde arama yapmak
-için kullanılacak buton.**
-
-**Ana Menü Butonu: Bir önceki menüye dönmek için basılacak buton.**
-
-**Abonelik İşlemleri Menüsü**
-
-![](media/media/image3.jpeg){width="6.3in" height="3.075in"}
-
-**Bu menüde kayıtlı abonelikleri gösterme, sisteme abonelik ekleme,
+>Bu menüde kayıtlı abonelikleri gösterme, sisteme abonelik ekleme,
 kayıtlı bir abonelik güncelleme, silme ve abonelik süresi azalanları
-görüntüleme işlemleri yapılabilmektedir.**
+görüntüleme işlemleri yapılabilmektedir.
 
-**Abonelikleri Göster Butonu: Sistemdeki abonelikleri görüntülemek için
-kullanılacak buton.**
-
-**Abonelik Ekleme Butonu: Sisteme abonelik eklemek için kullanılacak
-buton.**
-
-**Abonelik Güncelleme Butonu: Seçilmiş olan aboneliği güncellemek için
-kullanılacak buton.**
-
-**Abonelik Sil Butonu: Seçilmiş aboneliği silmek için kullanılacak
-buton.**
-
-**Abonelik Süresi Azalanlar Butonu: Sistemdeki abonelik süresi azanları
-göstermek için kullanılacak buton.**
-
-![](media/media/image4.png){width="2.5in" height="2.0974573490813646in"}
-
-**Kayıtlı Araçları Göster Butonu: Sistemdeki kayıtlı araç plakalarını
+>**Abonelikleri Göster Butonu** : Sistemdeki abonelikleri görüntülemek için
+kullanılacak buton.
+>**Abonelik Ekleme Butonu** : Sisteme abonelik eklemek için kullanılacak
+buton.
+>**Abonelik Güncelleme Butonu** : Seçilmiş olan aboneliği güncellemek için
+kullanılacak buton.
+>**Abonelik Sil Butonu** : Seçilmiş aboneliği silmek için kullanılacak
+buton.
+>**Abonelik Süresi Azalanlar Butonu** : Sistemdeki abonelik süresi azanları
+göstermek için kullanılacak buton.
+![](media/media/image4.png)
+>**Kayıtlı Araçları Göster Butonu** : Sistemdeki kayıtlı araç plakalarını
 görmek için kullanılacak buton. Abonelik ekleme işleminde yardımcı olmak
-için koyuldu.**
+için koyuldu.
+![](media/media/image5.png)
+>**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
-![](media/media/image5.png){width="6.3in" height="2.8256944444444443in"}
-
-**Ana menü butonu: Bir önceki menüye dönmek için basılacak buton.**
-
-**Çalışan İşlemleri Menüsü**
+### Çalışan İşlemleri Menüsü 
 
 ![](media/media/image6.jpeg){width="6.3in"
 height="2.8333333333333335in"}

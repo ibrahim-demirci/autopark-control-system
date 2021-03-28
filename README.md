@@ -110,7 +110,6 @@ kayıtlı bir telefon güncelleme ve silme işlemleri yapılabilmektedir.\
 
 >**Telefon numaralarını göster butonu** : Sistemdeki telefon numaralarını
 görüntülemek için kullanılacak buton.\
-
 >**Telefon ekle butonu** : Sisteme telefon eklemek için kullanılacak
 buton.\
 >**Telefon sil butonu** : Seçilmiş olan telefonu silmek için kullanılacak
@@ -130,13 +129,13 @@ mesajları ile bilgilendirme yapılmıştır.\
 >   ![](media/media/image8.png)
 
 >**Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**\
->   ![](media/media/image9.png)
->   ![](media/media/image10.png)
->   ![](media/media/image11.png)
->   ![](media/media/image12.png)
->   ![](media/media/image13.png)
->   ![](media/media/image14.png)
->   ![](media/media/image15.png)
+>   ![](media/media/image9.png)\
+>   ![](media/media/image10.png)\
+>   ![](media/media/image11.png)\
+>   ![](media/media/image12.png)\
+>   ![](media/media/image13.png)\
+>   ![](media/media/image14.png)\
+>   ![](media/media/image15.png)\
 
 <br/>
 

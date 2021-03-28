@@ -114,10 +114,10 @@ mesajları ile bilgilendirme yapılmıştır.\
 
 ### Örnek: <br/>
 
->-Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
+>**Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
 >   ![](media/media/image8.png)
 
->-Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**
+>**Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**
 >   ![](media/media/image9.png)<br/>
 >   ![](media/media/image10.png)<br/>
 >   ![](media/media/image11.png)<br/>
@@ -126,15 +126,13 @@ mesajları ile bilgilendirme yapılmıştır.\
 >   ![](media/media/image14.png)<br/>
 >   ![](media/media/image15.png)<br/>
 
-**ER Diyagram**
+### ER Diyagram**<hr/>
+>![](media/media/image16.png)
 
-![](media/media/image16.png)
+###Veritabanı Şeması<hr/>
+>![](media/media/image17.png)
 
-**Veritabanı Şeması**
-
-![](media/media/image17.png)
-
-**Normalizasyon Aşamaları**
+###Normalizasyon Aşamaları<hr/>
 
 ![](media/media/image18.png)
 

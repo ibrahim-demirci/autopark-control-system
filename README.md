@@ -9,7 +9,7 @@ _İbrahim Demirci_
 
 <br/>
 
-### Araç İşlemleri Menüsü<hr/>
+### Araç İşlemleri Menüsü<hr style="border:2px solid blue"> </hr>
 
 >![image](media/media/image1.jpeg)
 
@@ -134,8 +134,8 @@ mesajları ile bilgilendirme yapılmıştır.\
 >   ![](media/media/image11.png)\
 >   ![](media/media/image12.png)\
 >   ![](media/media/image13.png)\
->   ![](media/media/image14.png)\
->   ![](media/media/image15.png)\
+    >   ![](media/media/image14.png)\
+    >   ![](media/media/image15.png)\
 
 <br/>
 

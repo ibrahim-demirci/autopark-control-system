@@ -70,15 +70,10 @@ kullanılacak buton.\
 buton.\
 >**Abonelik Süresi Azalanlar Butonu** : Sistemdeki abonelik süresi azanları
 göstermek için kullanılacak buton.\
-<br/>
-
 >![](media/media/image4.png)\
 >**Kayıtlı Araçları Göster Butonu** : Sistemdeki kayıtlı araç plakalarını
 görmek için kullanılacak buton. Abonelik ekleme işleminde yardımcı olmak
 için koyuldu.\
-
-<br/>
-
 >![](media/media/image5.png)\
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
@@ -145,12 +140,13 @@ mesajları ile bilgilendirme yapılmıştır.\
 <br/>
 
 ### ER Diyagram<hr/>
+
 >![](media/media/image16.png)
-<br/>
+
 
 ###Veritabanı Şeması<hr/>
+
 >![](media/media/image17.png)
-<br/>
 
 ###Normalizasyon Aşamaları<hr/>
 

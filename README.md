@@ -9,7 +9,7 @@ _İbrahim Demirci_
 
 <br/>
 
-### Araç İşlemleri Menüsü<hr style="border:2px solid blue"> </hr>
+### Araç İşlemleri Menüsü<hr style="border:1px solid blue"> </hr>
 
 >![image](media/media/image1.jpeg)
 

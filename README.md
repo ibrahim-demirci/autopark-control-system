@@ -10,8 +10,6 @@ _İbrahim Demirci_
 <br/>
 
 ### Araç İşlemleri Menüsü
-------
-
 >![image](media/media/image1.jpeg)
 
 >Bu menüde kayıtlı araçları gösterme, sisteme araç ekleme, kayıtlı bir

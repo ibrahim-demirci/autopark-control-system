@@ -69,106 +69,82 @@ göstermek için kullanılacak buton.\
 >**Kayıtlı Araçları Göster Butonu** : Sistemdeki kayıtlı araç plakalarını
 görmek için kullanılacak buton. Abonelik ekleme işleminde yardımcı olmak
 için koyuldu.\
-![](media/media/image5.png)
+>![](media/media/image5.png)
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
 ### Çalışan İşlemleri Menüsü 
 
-![](media/media/image6.jpeg){width="6.3in"
-height="2.8333333333333335in"}
+>![](media/media/image6.jpeg)
 
-**Bu menüde kayıtlı çalışanları gösterme, sisteme çalışan kaydetme,
+>**Bu menüde kayıtlı çalışanları gösterme, sisteme çalışan kaydetme,
 kayıtlı bir çalışan güncelleme, silme ve** **çalışanlar içerisinde
-istenen özelliğe göre arama yapma işlemleri yapılabilmektedir..**
+istenen özelliğe göre arama yapma işlemleri yapılabilmektedir..\
+>**Çalışanları göster butonu: Sistemdeki çalışanları görüntülemek için
+kullanılacak buton.\
+>**Çalışan kaydet butonu: Sisteme çalışanı kaydetmek için kullanılacak
+buton.\
+>**Çalışan güncelleme butonu: Seçilmiş olan çalışanı güncellemek için
+kullanılacak buton.\
+>**Çalışan sil butonu: Seçilmiş çalışanı silmek için kullanılacak
+buton.\
+>**Ara butonu: Arama türü ve aranacak değer ile sistemde arama yapmak
+için kullanılacak buton.\
+>**Ana menü butonu** : Bir önceki menüye dönmek için basılacak buton.
 
-**Çalışanları göster butonu: Sistemdeki çalışanları görüntülemek için
-kullanılacak buton.**
+### Müşteri Telefon İşlemleri Menüsü
 
-**Çalışan kaydet butonu: Sisteme çalışanı kaydetmek için kullanılacak
-buton.**
+>![](media/media/image7.jpeg)
+>Bu menüde telefon numaralarını gösterme, sisteme telefon ekleme,
+kayıtlı bir telefon güncelleme ve silme işlemleri yapılabilmektedir.
 
-**Çalışan güncelleme butonu: Seçilmiş olan çalışanı güncellemek için
-kullanılacak buton.**
+>**Telefon numaralarını göster butonu** : Sistemdeki telefon numaralarını
+görüntülemek için kullanılacak buton.
 
-**Çalışan sil butonu: Seçilmiş çalışanı silmek için kullanılacak
-buton.**
+>**Telefon ekle butonu** : Sisteme telefon eklemek için kullanılacak
+buton.
+>**Telefon sil butonu** : Seçilmiş olan telefonu silmek için kullanılacak
+buton.
+>**Telefon güncelle butonu** : Seçilmiş olan telefonu güncellemek için
+kullanılacak buton.
+>**Kapatma butonu** : müşteri telefon işlemleri menüsünü kapatmak için
+basılacak buton.
+>**_Sistem Hatayı Minimuma İndirgeyecek Şekilde Tasarlanmıştır_
+>**Yanlış bir işleme yol açabilecek her durum göz önüne alınmış ve uyarı
+mesajları ile bilgilendirme yapılmıştır.
 
-**Ara butonu: Arama türü ve aranacak değer ile sistemde arama yapmak
-için kullanılacak buton.**
-
-**Ana menü butonu: Bir önceki menüye dönmek için basılacak buton.**
-
-**Müşteri Telefon İşlemleri Menüsü**
-
-![](media/media/image7.jpeg){width="5.891666666666667in"
-height="3.5569510061242346in"}
-
-**Bu menüde telefon numaralarını gösterme, sisteme telefon ekleme,
-kayıtlı bir telefon güncelleme ve silme işlemleri yapılabilmektedir.**
-
-**Telefon numaralarını göster butonu: Sistemdeki telefon numaralarını
-görüntülemek için kullanılacak buton.**
-
-**Telefon ekle butonu: Sisteme telefon eklemek için kullanılacak
-buton.**
-
-**Telefon sil butonu: Seçilmiş olan telefonu silmek için kullanılacak
-buton.**
-
-**Telefon güncelle butonu: Seçilmiş olan telefonu güncellemek için
-kullanılacak buton.**
-
-**Kapatma butonu: müşteri telefon işlemleri menüsünü kapatmak için
-basılacak buton.**
-
-**Sistem Hatayı Minimuma İndirgeyecek Şekilde Tasarlanmıştır**
-
-**Yanlış bir işleme yol açabilecek her durum göz önüne alınmış ve uyarı
-mesajları ile bilgilendirme yapılmıştır.**
-
-**Örnek:**
+>**Örnek:**
 
 **-Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
 
--   ![](media/media/image8.png){width="3.1081135170603673in"
-    height="1.7479166666666666in"}
+-   ![](media/media/image8.png)
 
 **-Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**
 
--   ![](media/media/image9.png){width="3.126636045494313in"
-    height="1.7583333333333333in"}
+-   ![](media/media/image9.png)
 
--   ![](media/media/image10.png){width="2.7in"
-    height="1.6314490376202975in"}
+-   ![](media/media/image10.png)
 
--   ![](media/media/image11.png){width="2.7328663604549432in"
-    height="1.5729166666666667in"}
+-   ![](media/media/image11.png)
 
--   ![](media/media/image12.png){width="2.75in" height="1.1in"}
+-   ![](media/media/image12.png)
 
--   ![](media/media/image13.png){width="2.6770833333333335in"
-    height="1.7083333333333333in"}
+-   ![](media/media/image13.png)
 
--   ![](media/media/image14.png){width="2.4895833333333335in"
-    height="1.7083333333333333in"}
+-   ![](media/media/image14.png)
 
--   ![](media/media/image15.png){width="2.8229166666666665in"
-    height="1.7083333333333333in"}
+-   ![](media/media/image15.png)
 
 **ER Diyagram**
 
-![](media/media/image16.png){width="6.291666666666667in"
-height="3.9833333333333334in"}
+![](media/media/image16.png)
 
 **Veritabanı Şeması**
 
-![](media/media/image17.png){width="6.3in"
-height="2.9138888888888888in"}
+![](media/media/image17.png)
 
 **Normalizasyon Aşamaları**
 
-![](media/media/image18.png){width="6.0in"
-height="1.0208333333333333in"}
+![](media/media/image18.png)
 
 **Yukarıdaki şekilde görülen tabloyu her araç için yazdığımızda
 görülüyor ki müşteri bilgilerini de her seferinde tutmamız gerekiyor. Bu
@@ -187,8 +163,7 @@ tabloyu 1NF yapmak için**
 > birden fazla telefona sahip olması durumunda tekrar eden verilerin
 > olmasıdır.**
 >
-> ![](media/media/image19.png){width="6.3in"
-> height="0.7243055555555555in"}
+> ![](media/media/image19.png)
 
 **2NF için :**
 
@@ -294,29 +269,22 @@ tablodur.**
 
 **2 TABLODA JOIN İŞLEMİ (Musteri-MusteriTel)**
 
-![](media/media/image20.png){width="6.3in"
-height="1.1270833333333334in"}
+![](media/media/image20.png)
 
-![](media/media/image21.png){width="6.3in"
-height="2.0729166666666665in"}
+![](media/media/image21.png)
 
-![](media/media/image22.png){width="3.925in"
-height="1.9200218722659668in"}
+![](media/media/image22.png)
 
-![](media/media/image23.png){width="6.3in"
-height="1.8020833333333333in"}
+![](media/media/image23.png)
 
 **TARİH İŞLEMLERİ**
 
-![](media/media/image24.png){width="6.3in"
-height="0.9284722222222223in"}
+![](media/media/image24.png)
 
-![](media/media/image25.png){width="3.0174956255468066in"
-height="2.3541666666666665in"}
+![](media/media/image25.png)
 
 **3 TABLODA BİRDEN JOIN İŞLEMİ (Arac-Abonelik-Musteri)**
 
-![](media/media/image26.png){width="6.3in" height="1.98125in"}
+![](media/media/image26.png)
 
-![](media/media/image27.png){width="6.3in"
-height="1.6027777777777779in"}
+![](media/media/image27.png)

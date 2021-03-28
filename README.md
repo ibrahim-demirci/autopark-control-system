@@ -70,11 +70,13 @@ kullanılacak buton.\
 buton.\
 >**Abonelik Süresi Azalanlar Butonu** : Sistemdeki abonelik süresi azanları
 göstermek için kullanılacak buton.\
+
 <br/>
 >![](media/media/image4.png)\
 >**Kayıtlı Araçları Göster Butonu** : Sistemdeki kayıtlı araç plakalarını
 görmek için kullanılacak buton. Abonelik ekleme işleminde yardımcı olmak
 için koyuldu.\
+
 <br/>
 >![](media/media/image5.png)\
 >**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.

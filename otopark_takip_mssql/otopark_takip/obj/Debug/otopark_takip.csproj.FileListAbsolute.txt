@@ -1,0 +1,31 @@
+D:\ornekler\vb_net\otopark_takip\otopark_takip\bin\Debug\otopark_takip.exe
+D:\ornekler\vb_net\otopark_takip\otopark_takip\bin\Debug\otopark_takip.pdb
+D:\ornekler\vb_net\otopark_takip\otopark_takip\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\vb_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form1.resources
+D:\ornekler\vb_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form2.resources
+D:\ornekler\vb_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Properties.Resources.resources
+D:\ornekler\vb_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.csproj.GenerateResource.Cache
+D:\ornekler\vb_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.exe
+D:\ornekler\vb_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.pdb
+D:\ornekler\vb_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form3.resources
+D:\ornekler\C#_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.exe
+D:\ornekler\C#_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.pdb
+D:\ornekler\C#_net\otopark_takip\otopark_takip\bin\Debug\otopark_takip.exe
+D:\ornekler\C#_net\otopark_takip\otopark_takip\bin\Debug\otopark_takip.pdb
+D:\ornekler\C#_net\otopark_takip\otopark_takip\obj\Debug\ResolveAssemblyReference.cache
+D:\ornekler\C#_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form1.resources
+D:\ornekler\C#_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form2.resources
+D:\ornekler\C#_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form3.resources
+D:\ornekler\C#_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Properties.Resources.resources
+D:\ornekler\C#_net\otopark_takip\otopark_takip\obj\Debug\otopark_takip.csproj.GenerateResource.Cache
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\obj\Debug\otopark_takip.exe
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\obj\Debug\otopark_takip.pdb
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form1.resources
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form2.resources
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Form3.resources
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\obj\Debug\otopark_takip.Properties.Resources.resources
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\obj\Debug\otopark_takip.csproj.GenerateResource.Cache
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\bin\Debug\otopark_takip.exe
+C:\Users\hasan\Downloads\otopark_takip\otopark_takip\bin\Debug\otopark_takip.pdb
+C:\Users\hasan\Downloads\projeler son\otopark_takip_mssql\otopark_takip\obj\Debug\otopark_takip.exe
+C:\Users\hasan\Downloads\projeler son\otopark_takip_mssql\otopark_takip\obj\Debug\otopark_takip.pdb

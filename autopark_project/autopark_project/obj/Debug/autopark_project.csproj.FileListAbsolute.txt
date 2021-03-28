@@ -1,0 +1,17 @@
+C:\Users\bmide\source\repos\autopark_project\autopark_project\bin\Debug\autopark_project.exe.config
+C:\Users\bmide\source\repos\autopark_project\autopark_project\bin\Debug\autopark_project.exe
+C:\Users\bmide\source\repos\autopark_project\autopark_project\bin\Debug\autopark_project.pdb
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.csprojAssemblyReference.cache
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.Properties.Resources.resources
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.csproj.GenerateResource.cache
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.csproj.CoreCompileInputs.cache
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.exe
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.pdb
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.main.resources
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.AracForm.resources
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.MusteriForm.resources
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.MusteriTel.resources
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.Abonelik.resources
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.AbonelikAracYardım.resources
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.AbonelikBitis.resources
+C:\Users\bmide\source\repos\autopark_project\autopark_project\obj\Debug\autopark_project.CalisanForm.resources

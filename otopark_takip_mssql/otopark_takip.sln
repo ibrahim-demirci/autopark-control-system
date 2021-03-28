@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otopark_takip", "otopark_takip\otopark_takip.csproj", "{D102B53C-E341-4B85-A628-55E847D47D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D102B53C-E341-4B85-A628-55E847D47D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D102B53C-E341-4B85-A628-55E847D47D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D102B53C-E341-4B85-A628-55E847D47D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D102B53C-E341-4B85-A628-55E847D47D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

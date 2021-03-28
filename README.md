@@ -45,8 +45,9 @@ buton.\
 kullanılacak buton.\
 >**Ara Butonu** : Arama türü ve aranacak değer ile sistemde arama yapmak
 için kullanılacak buton.\
->**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.<br/>
+>**Ana Menü Butonu** : Bir önceki menüye dönmek için basılacak buton.
 
+<br/>
 
 ### Abonelik İşlemleri Menüsü<hr/>
 

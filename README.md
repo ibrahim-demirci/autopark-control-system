@@ -95,44 +95,36 @@ için kullanılacak buton.\
 
 >![](media/media/image7.jpeg)
 >Bu menüde telefon numaralarını gösterme, sisteme telefon ekleme,
-kayıtlı bir telefon güncelleme ve silme işlemleri yapılabilmektedir.
+kayıtlı bir telefon güncelleme ve silme işlemleri yapılabilmektedir.\
 
 >**Telefon numaralarını göster butonu** : Sistemdeki telefon numaralarını
-görüntülemek için kullanılacak buton.
+görüntülemek için kullanılacak buton.\
 
 >**Telefon ekle butonu** : Sisteme telefon eklemek için kullanılacak
-buton.
+buton.\
 >**Telefon sil butonu** : Seçilmiş olan telefonu silmek için kullanılacak
-buton.
+buton.\
 >**Telefon güncelle butonu** : Seçilmiş olan telefonu güncellemek için
-kullanılacak buton.
+kullanılacak buton.\
 >**Kapatma butonu** : müşteri telefon işlemleri menüsünü kapatmak için
-basılacak buton.
+basılacak buton.\
 >**_Sistem Hatayı Minimuma İndirgeyecek Şekilde Tasarlanmıştır_
 >**Yanlış bir işleme yol açabilecek her durum göz önüne alınmış ve uyarı
-mesajları ile bilgilendirme yapılmıştır.
+mesajları ile bilgilendirme yapılmıştır.\
 
 ### Örnek: <br/>
 
 >-Primary Key değerlerin tekrar girilmesi durumu uyarısı.**
-
 >   ![](media/media/image8.png)
 
 >-Foreign Key değerlerin ana tabloda bulunamaması durumu uyarısı.**
-
->   ![](media/media/image9.png)
-
->   ![](media/media/image10.png)
-
->   ![](media/media/image11.png)
-
->   ![](media/media/image12.png)
-
->   ![](media/media/image13.png)
-
->   ![](media/media/image14.png)
-
->   ![](media/media/image15.png)
+>   ![](media/media/image9.png)<br/>
+>   ![](media/media/image10.png)<br/>
+>   ![](media/media/image11.png)<br/>
+>   ![](media/media/image12.png)<br/>
+>   ![](media/media/image13.png)<br/>
+>   ![](media/media/image14.png)<br/>
+>   ![](media/media/image15.png)<br/>
 
 **ER Diyagram**
 

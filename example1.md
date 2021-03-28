@@ -12,7 +12,7 @@
 
 **Araç İşlemleri Menüsü**
 
-![image](\media\media\image1.jpeg){width="6.3in" height="2.6180555555555554in"}
+![image](media/media/image1.jpeg){width="6.3in" height="2.6180555555555554in"}
 
 **Bu menüde kayıtlı araçları gösterme, sisteme araç ekleme, kayıtlı bir
 aracı güncelleme, silme ve araçlar içerisinde istenen özelliğe göre

@@ -70,7 +70,6 @@ kullanılacak buton.\
 buton.\
 >**Abonelik Süresi Azalanlar Butonu** : Sistemdeki abonelik süresi azanları
 göstermek için kullanılacak buton.\
-
 <br/>
 
 >![](media/media/image4.png)\
@@ -100,7 +99,7 @@ buton.\
 kullanılacak buton.\
 >**Çalışan sil butonu: Seçilmiş çalışanı silmek için kullanılacak
 buton.\
->**Ara butonu: Arama türü ve aranacak değer ile sistemde arama yapmak
+>**Ara butonu**: Arama türü ve aranacak değer ile sistemde arama yapmak
 için kullanılacak buton.\
 >**Ana menü butonu** : Bir önceki menüye dönmek için basılacak buton.
 
@@ -145,14 +144,12 @@ mesajları ile bilgilendirme yapılmıştır.\
 
 <br/>
 
-### ER Diyagram**<hr/>
+### ER Diyagram<hr/>
 >![](media/media/image16.png)
-
 <br/>
 
 ###Veritabanı Şeması<hr/>
 >![](media/media/image17.png)
-
 <br/>
 
 ###Normalizasyon Aşamaları<hr/>
